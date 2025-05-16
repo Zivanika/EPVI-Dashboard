@@ -24,7 +24,7 @@ const App = () => {
               offsetY: -36,
               fontSize: "22px",
               color: "#1f1f1f",
-              formatter: function (val: any) {
+              formatter: function (val) {
                 return val + "%";
               },
             },
