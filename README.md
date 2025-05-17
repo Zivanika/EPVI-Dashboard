@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">EPVI Dashboard</h1>
 
-## Getting Started
+## 🖥️ Tech Stack
+**Frontend:**
 
-First, run the development server:
+![nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![shadcnUI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)&nbsp;
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Deployed On:**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📌 Screenshots:
+![home](/img/Home.jpg)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## 🚀 Getting Started:
 
-To learn more about Next.js, take a look at the following resources:
+Before you begin, ensure you have the following installed on your local machine:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Node.js](https://nodejs.org/) (v14 or later)
+- [npm](https://www.npmjs.com/) (v6 or later) or [Yarn](https://yarnpkg.com/) (v1 or later)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🏠 Running the Project Locally:
 
-## Deploy on Vercel
+Follow these steps to run the Next.js project on your local machine:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Clone the Repository:**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+    ```sh
+    git clone https://github.com/Zivanika/EPVI-Dashboard.git
+    cd EPVI-Dashboard
+    ```
+
+2. **Install Dependencies:**
+
+    Using npm:
+
+    ```sh
+    npm install
+    ```
+
+    Or using Yarn:
+
+    ```sh
+    yarn install
+    ```
+
+3. **Run the Development Server:**
+
+    Using npm:
+
+    ```sh
+    npm run dev
+    ```
+
+    Or using Yarn:
+
+    ```sh
+    yarn dev
+    ```
+
+4. **Open Your Browser:**
+
+    Open your browser and navigate to [http://localhost:3000](http://localhost:3000). You should see the Next.js application running!
+
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/harshita-barnwal-17a732234/)
+
+© 2025 Harshita Barnwal
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
