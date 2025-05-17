@@ -8,7 +8,6 @@ import NewCustomersChart from "./components/NewCustomersChart";
 import Stats from "./components/Stats";
 import { Circle } from "lucide-react";
 import CircleProgress from "./components/CircleProgress";
-import Dashboard from "./components/Dashboard";
 import { Card } from "./components/Card";
 
 export default function Home() {
